@@ -6,9 +6,10 @@ body {
   width: 30%;
   float: right;
   height: 500px;
-  padding: 5px;
   background-color: lightyellow;
   border-style: double;
+  margin-bottom: 12px;
+  box-sizing: border-box;
 }
 
 .logo {
@@ -20,6 +21,8 @@ img.headshots {
   float: left;
   height: 500px;
   border-style: double;
+  margin-bottom: 12px;
+  box-sizing: border-box;
 }
 
 li {
@@ -36,7 +39,7 @@ li {
   text-decoration: underline;
 }
 
-.links {
+.link-box {
   float: left;
   padding: 15px;
   line-height:1.5;
