@@ -11,7 +11,7 @@
 
 ## Description
 
-_A simple webpage for a fake band._
+_A simple webpage for a band I like._
 
 ## Setup/Installation Requirements
 
